@@ -9,3 +9,6 @@
   * [5. Parcel & ESLint](week-1/5.-parcel-and-eslint.md)
 * [⚡ week 2](week-2/README.md)
   * [1. JSX](week-2/1.-jsx.md)
+* [⚡ week 3](week-3/README.md)
+  * [1. React Component](week-3/1.-react-component.md)
+  * [2. React State](week-3/2.-react-state.md)
