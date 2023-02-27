@@ -8,7 +8,7 @@
 
 ## 📚목차
 
-1. [TDD](1.-tdd.md)
+1. [TDD](1..md)
 2. [React Testing Library](2.-react-testing-library.md)
 3. [MSW](3.-msw.md)
 4. [Playwright](4.-playwright.md)

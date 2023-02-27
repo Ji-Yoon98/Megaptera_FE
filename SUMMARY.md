@@ -19,7 +19,7 @@
   * [4. useRef & Custom Hook](week-4/4.-useref-and-custom-hook.md)
   * [5. usehooks-ts](week-4/5.-usehooks-ts.md)
 * [⚡ week 5](week-5/README.md)
-  * [1. TDD](week-5/1.-tdd.md)
+  * [1. 테스트](week-5/1..md)
   * [2. React Testing Library](week-5/2.-react-testing-library.md)
   * [3. MSW](week-5/3.-msw.md)
   * [4. Playwright](week-5/4.-playwright.md)
