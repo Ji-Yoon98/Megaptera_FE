@@ -30,6 +30,5 @@
   * [4. usestore-ts](week-6/4.-usestore-ts.md)
 * [⚡ week 7](week-7/README.md)
   * [1. Routing](week-7/1.-routing.md)
-  * [2. Routes](week-7/2.-routes.md)
-  * [3. Router](week-7/3.-router.md)
-  * [4. Navigation](week-7/4.-navigation.md)
+  * [2. React Router](week-7/2.-routes.md)
+  * [3. Navigation](week-7/3.-router.md)
