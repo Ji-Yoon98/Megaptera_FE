@@ -8,9 +8,9 @@
 
 ## 📚목차
 
-1. [Design System](design-system.md)
-2. [Style Basics](style-basics.md)
-3. [CSS in JS](css-in-js.md)
-4. [styled-components](styled-components.md)
-5. [props & attrs](props-and-attrs.md)
-6. [Global Style & Theme](global-style-and-theme.md)
+1. [Design System](1.-design-system.md)
+2. [Style Basics](2.-style-basics.md)
+3. [CSS in JS](3.-css-in-js.md)
+4. [styled-components](4.-styled-components.md)
+5. [props & attrs](5.-props-and-attrs.md)
+6. [Global Style & Theme](6.-global-style-and-theme.md)
