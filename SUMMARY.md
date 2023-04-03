@@ -39,3 +39,5 @@
   * [4. styled-components](week08/4.-styled-components.md)
   * [5. props & attrs](week08/5.-props-and-attrs.md)
   * [6. Global Style & Theme](week08/6.-global-style-and-theme.md)
+* [⚡ week09](week09/README.md)
+  * [1. 개발하기 전 준비](week09/1..md)
