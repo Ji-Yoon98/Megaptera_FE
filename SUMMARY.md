@@ -41,3 +41,7 @@
   * [6. Global Style & Theme](week08/6.-global-style-and-theme.md)
 * [⚡ week09](week09/README.md)
   * [1. 개발하기 전 준비](week09/1..md)
+  * [2. 목록 보기](week09/2..md)
+  * [3. 상품 상세 보기](week09/3..md)
+  * [4. 장바구니 보기](week09/4..md)
+  * [5. 장바구니에 상품 담기](week09/5..md)
