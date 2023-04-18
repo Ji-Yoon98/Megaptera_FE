@@ -50,4 +50,5 @@
   * [2. 로그아웃](week10/2..md)
   * [3. 회원가입](week10/3..md)
   * [4. 주문 목록 & 주문 상세](week10/4.-and.md)
-* [⚡ week11](week11.md)
+* [⚡ week11](week11/README.md)
+  * [1. 배송 정보 입력](week11/1..md)
